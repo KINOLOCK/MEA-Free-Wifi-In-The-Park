@@ -1,2 +1,2 @@
-# MEA-Free-Wifi-In-The-Park
-Created June 27th, 2022
+# Wifi-In-The-Park-Template
+ 
